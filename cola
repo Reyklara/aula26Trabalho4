@@ -1,0 +1,97 @@
+TAGS DO HTML 
+
+<html> => Começa um programa en html
+</html> => Termina um programa en html
+<head> -> Começa a cabeça do programa (configurações)
+</head> -> Termina as configurações
+<body> -> Começa o corpo do site
+</body> -> Termina o corpo do site
+<p> -> Começa um paragrafo
+</p> -> Termina um paragrafo
+<style> -> Começa a estiização do site (efeitos visuais)
+</style> -> Termina a estiização do site 
+<h1> -> Começa o texto de importancia 1
+</h1> -> Termina o texto de importancia 1
+<h6> -> Começa o texto de importancia 6
+</h6> -> Termina o texto de importancia 6
+<img> -> Coloca uma imagem no site
+<link rel="stylesheet" href="CSS/reset.css">
+<div> -> Começa uma divisão e conteudo
+</div> -> Termina uma divisão e conteudo
+<form> -> Começa um formulario
+</form> -> Termina um formulario
+<input> -> Cria um campo para o usuario poder interagir
+<select> -> Começa um campo de multiple escolha
+</select> -> Termina um campo de multiple escolha
+<option> -> Começa uma opção dentro do select
+</option> -> Termina uma opção dentro do select
+<textarea> -> Começa um campo grande para textos
+</textarea> -> Começa um campo grande para textos
+<label> -> Indica um texto para se conectar
+</label> -> fim da indicação de um texto para se conectar
+<header> -> Semelhante a uma <div> porem usada no inicio
+<main> -> Semelhante a uma <div> porem usada no meio
+<footer> -> Semelhante a uma <div> porem usada no meio
+<section> -> Semelhante a uma <div> porem usada em um grupo grande
+<nav> -> Indica a navegação principal do site
+<ul> -> Unorder List (Lista não Ordenada)
+<ol> -> Order List (Lista Ordenada)
+<li> -> List Item -> (Item dentro de uma lista)
+
+
+
+
+<!-- Comentario aqui -->
+
+
+----------------------------------------
+Sub Comandos do html (Parametros ou atributos)
+comando= ""
+src="" -> Permite escolher a imagem dentro do img
+href="" -> Permite uma referencia com arquivo externo
+class="" -> Cria um "apelido" que classifica o elemento
+type="text" -> Permite ao input armazenar textos
+type="number" -> Permite ao input aceitar somente numeros
+type="checkbox" -> permite ao input se transformar em um quadrado
+type="radio" -> Permite ao input se transformar em um circulo
+type="submit" -> Executa o form enviando as informações para outra linguagem
+placeholder="dica aqui" -> Coloca uma dica para o usuario
+value="texto aqui" -> Pré preenche um input
+readonly -> Faz o input ser somente a leitura (bloqueia mudanças)
+for="ze" -> Faz com que o label se conecte a um id
+
+----------------------------------------
+Comandos de CSS
+
+elemento{
+    color :red; -> Muda a cor do texto
+    font-size: 30px; -> Muda o tamanho do texto
+    font-weight: 900; -> Aplica negrita no texto
+    font-family: sans-serif; -> Muda a fonte do texto
+    background-color: blueviolet; Muda a cor de fundo 
+    width: 800; -> Largura
+    height: 500; -> Altura
+    padding-top: 50px -> Afasta o elemento em cima (dentro)
+    padding-botton: 50px -> Afasta o elemento em baixo (dentro)
+    padding-left: 50px -> Afasta o elemento na esquerda (dentro)
+    padding-rigth: 50px -> Afasta o elemento na direita (dentro)
+    padding: 50px -> Afasta o elemento em todos os lados (dentro)
+    margin-top: 50px -> Afasta o elemento em cima (Fora)
+    margin-botton: 50px -> Afasta o elemento em baixo (Fora)
+    margin-left: 50px -> Afasta o elemento na esquerda (Fora)
+    margin-rigth: 50px -> Afasta o elemento na direita (Fora)
+    margin: 50px -> Afasta o elemento em todos os lados (Fora)
+    border: 5px solid blue; -> Espesura tipo cor
+
+    box-sizing: border-box; -> Faz com que o calculo
+    do prograa seja feito para dentro do elemento
+    quando aplicamos bordas ou paddings.
+    display:inline-block; faz com que os elementos
+    fiquem em linha (usado junto do <li>)
+    text-transform:uppercase; -> transforma o texto
+    em maiusculo
+
+    
+
+
+}
