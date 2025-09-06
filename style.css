@@ -1,0 +1,344 @@
+.tel{
+    font-weight: bold;
+    font-size: 20px;
+}
+.botao{
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: burlywood;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.gg{
+    color: grey;
+    font-size: 20px;
+}
+
+.qs{
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.ns{
+    margin-top: 40px;
+}
+
+
+li{
+    display: inline-block;
+    color: white;
+    font-size: 16px;
+    margin-right: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+nav{
+    background-color: rgb(170, 112, 5);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+
+
+.tt{
+    color: coral;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 40px;
+}
+.tt1{
+    font-size: 20px;
+    font-weight: bold;
+}
+.tt2{
+    color: coral;
+    font-size: 20px;
+    font-weight: bold;
+   
+}
+
+
+.titulo{
+    color: #deb887;
+    font-size: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.mainservico div{
+    background-color: white;
+    border: 10px solid #d6dde4;
+    border-radius: 20px;
+    line-height: 22px;
+}
+
+
+main h1{
+    color: #deb887;
+    font-size: 25px;
+}
+main h2{
+    font-size: 25px;
+}
+main h3{
+    font-size: 20px;
+    color: grey;
+    padding-left: 50px;
+}
+
+.propos{
+    background-color: aliceblue;
+    border: 10px solid #d6dde4;
+    border-radius: 20px;
+}
+.ss1{
+    margin-top: 50px;
+}
+.ppp{
+    background-color: chocolate;
+    height: 5px;
+    width: 100px;
+}
+.ss2{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.cc1{
+    color: chocolate;
+}
+.cc2{
+    margin-bottom: 20px;
+}
+.cc2 div{
+    background-color: white;
+    border: 5px solid #d6dde4;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.cc2 div img{
+    height: 200px;
+}
+.cc2 h1{
+    margin-top: 30px;
+}
+.cc2 div h2{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.cc2 div h3{
+    font-size: 15px;
+    margin-top: 20px;
+    padding-right: 30px;
+
+}
+.cc2 .button1{
+    width: 220px;
+    height: 45px;
+    background-color: darkgoldenrod;
+    color: white;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.cc2 .button2{
+    width: 220px;
+    height: 45px;
+    background-color: darkgoldenrod;
+    color: white;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.ultss{
+    margin-bottom: 20px;
+}
+
+.ultra div{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.conv111 div{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.fc1{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.fcc{
+    margin-bottom: 40px;
+}
+
+.acc{
+    margin-left: 48px;
+    margin-bottom: 20px; 
+    padding-top: 40px;
+    color: white;
+    font-size: 40px;
+}
+.acc2 img{
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+}
+
+.but{
+    width: 170px;
+    height: 40px;
+    margin-left: 48px;
+    background-color: rgba(255, 0, 0, 0);
+    margin-top: 10px;
+    border: 3px solid white;
+    color: white;
+    border-radius: 10px;
+    
+}
+.esp{
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+.g1 h1{
+    color: white;
+    font-size: 30px;
+    font-weight: 800;
+    margin-top: 30px;
+    
+}
+.g1 h2{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.453);
+    margin-top: 70px;
+}
+.g1div1{
+    background-image: url(../imagem/cirugiaplastica.jpg);
+    background-size: cover;
+    border: 10px solid white;
+    border-radius: 50px;
+}
+.g1div2{
+    background-image: url(../imagem/ultrassonografia.avif);
+    background-size: cover;
+    border: 10px solid white;
+    border-radius: 50px;
+}
+.g1div3{
+    background-image: url(../imagem/gastroenterologia.avif);
+    background-size: cover;
+    border: 10px solid white;
+    border-radius: 50px;
+}
+.g1div4{
+    background-image: url(../imagem/cardiologia.jpg);
+    background-size: cover;
+    border: 10px solid white;
+    border-radius: 50px;
+}
+.g1div5{
+    background-image: url(../imagem/dermatologia.jpg);
+    background-size: cover;
+    border: 10px solid white;
+    border-radius: 50px;
+}
+.g1div6{
+    background-image: url(../imagem/ortopedia.jpg);
+    background-size: cover;
+    border: 10px solid white;
+    border-radius: 50px;
+}
+.g1div7{
+    background-image: url(../imagem/psicologia.jpg);
+    background-size: cover;
+    border: 10px solid white;
+    border-radius: 50px;
+}
+.g1div8{
+    background-image: url(../imagem/oftalmologia.jpg);
+    background-size: cover;
+    border: 10px solid white;
+    border-radius: 50px;
+}
+.g1div9{
+    background-image: url(../imagem/ottorrino.jpg);
+    background-size: cover;
+    border: 10px solid white;
+    border-radius: 50px;
+}
+.g1div10{
+    background-image: url(../imagem/urologia.jpg);
+    background-size: cover;
+    border: 10px solid white;
+    border-radius: 50px;
+}
+.g1div11{
+    background-image: url(../imagem/neurocirugia.png);
+    background-size: cover;
+    border: 10px solid white;
+    border-radius: 50px;
+}
+.g1div12{
+    background-image: url(../imagem/angiologia.webp);
+    background-size: cover;
+    border: 10px solid white;
+    border-radius: 50px;
+}
+.g1div13{
+    background-image: url(../imagem/cirugia.jpg);
+    background-size: cover;
+    border: 10px solid white;
+    border-radius: 50px;
+}
+.g1 div{
+    margin-bottom: 100px;
+    height: 320px;
+}
+.corp4{
+    width: 130px;
+    height: 40px;
+    background-color: burlywood;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    margin-top: 80px;  
+}
+.corp1{
+    width: 130px;
+    height: 40px;
+    background-color: burlywood;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    margin-top: 50px;  
+}
+
+.vj{
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    background-color: burlywood;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 47%;
+}
+
+.fs{
+    font-size: 40px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.sss{
+    margin-top: 50px;
+}
+
+.fff{
+    margin-top: 60px;
+}
